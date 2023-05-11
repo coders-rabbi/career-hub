@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"Category_logo": "https://i.pinimg.com/originals/1d/74/3b/1d743bb41490128be1b2a0edc8a3e000.jpg",
+		"Category_name": "Programmer",
+		"Jobs_available": "200 jobs available"
+	},
+	{
+		"id": 2,
+		"Category_logo": "https://cdn.dribbble.com/users/5976/screenshots/6207015/media/f849c1ccb01e1189b315d63936a3435d.gif",
+		"Category_name": "Graphics Designer",
+		"Jobs_available": "300 jobs available"
+	},
+	{
+		"id": 3,
+		"Category_logo": "https://t3.ftcdn.net/jpg/01/42/19/72/360_F_142197229_hDysMjTkhmKmwETjq2LIy9mRNNuvdZvA.jpg",
+		"Category_name": "Data Analyst",
+		"Jobs_available": "250 jobs available"
+	},
+	{
+		"id": 4,
+		"Category_logo": "https://t4.ftcdn.net/jpg/04/53/70/41/360_F_453704176_fRLaZTHGmRZmM6BpZZe2PT17DBsjb4md.jpg",
+		"Category_name": "cyber Security",
+		"Jobs_available": "320 jobs available"
+	}
+]
